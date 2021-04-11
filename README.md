@@ -6,10 +6,10 @@
 
 
 ## Introduction:
-  Intro of the project
+  A website that has educational resources
   
 ## Demo Video Link:
-  <a href="https://drive.google.com/file/d/1FSa-jKtRBarZ6EVK5RZZf2hIb2PeM_IG/view?usp=sharing"></a>
+  <a href="https://drive.google.com/file/d/1FSa-jKtRBarZ6EVK5RZZf2hIb2PeM_IG/view?usp=sharing">video link</a>
   
 ## Presentation Link:
   <a href="https://drive.google.com/file/d/1oHTjRgZeQvvHtYRQRZErdDa8ZRs8YDkI/view?usp=drivesdk"> ppt link here </a>
@@ -25,12 +25,11 @@
 
 ## Contributors:
 
-Team Name: OP Squad
+Team Name: Codingninjas
 
 * [Raunak Bhandawat](https://github.com/raunak02)
 * [Kishlay Kashish](https://github.com/kishlay123)
 * [Piyush Patel](https://github.com/monkepi18)
-* 
 
 
 ### Made at:
